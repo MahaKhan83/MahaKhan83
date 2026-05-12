@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Maha Asif 👋
 
-<!--
-**MahaKhan83/MahaKhan83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an IT student interested in web development and software engineering. I enjoy learning new technologies and building creative projects.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- DevSphere – Developer Collaboration Platform
+- Healthyfy Mini App
+
+## Contact
+Email: janet.asif21@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/mahakhan83/
