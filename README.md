@@ -1,4 +1,4 @@
-# Hi, I'm Maha Asif 👋
+# Hi, I'm Maha Asif 
 
 ## About Me
 I am an IT student interested in web development and software engineering. I enjoy learning new technologies and building creative projects.
